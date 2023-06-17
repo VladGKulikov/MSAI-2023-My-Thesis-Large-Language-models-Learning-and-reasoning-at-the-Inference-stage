@@ -262,3 +262,137 @@ BloomZ 176B - 1/10
 8-
 9-
 10-
+
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+quanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW   5/10
+
+
+1)
+Janet's ducks lay 16 eggs per day.
+
+She eats 3 eggs for breakfast every morning.
+
+She bakes muffins with 4 eggs every day.
+
+She sells the remainder at the farmers' market.
+
+She sells the eggs for $2 per egg.
+
+Let's start by finding out how many eggs are left for selling:
+
+16 - 3 - 4 = 9 eggs
+
+She sells these 9 eggs at $2 per egg, so she makes:
+
+9 x 2 = 18 dollars
+
+Therefore, Janet makes $18 every day at the farmers' market.
+
+
+2)
+It is given that Marilyn's first record sold 10 times as many copies as Harald's.
+
+Let x be the number of copies Harald sold.
+Then, the number of copies Marilyn sold = 10x.
+
+Also, it is given that they sold 88,000 copies combined.
+
+Therefore, 10x + x = 88,000
+
+11x = 88,000
+
+x = 88,000/11 = 8,000
+
+So, Harald sold 8,000 copies.
+
+The answer is Harald sold 8,000 copies.
+
+3)
+There are four birds at the Caboose.
+
+Sally Two is three years older than Granny Red, so Granny Red is 2 years old.
+Granny Red is two times as old as Sally Four, so Sally Four is 1 year old.
+Sally Four is the same age as Sally Thirtytwo, and Sally Thirtytwo is 8 years old, so Sally Four is also 8 years old.
+The total age of the four birds is:
+
+Sally Two: 3 years
+Granny Red: 2 years
+Sally Four: 8 years
+Sally Thirtytwo: 8 years
+So the total age of the four birds is 21 years. The answer is 21.
+
+4)
+Nancy owes 8 * 0.50 = 4 dollars for the late books. She also owes 2 dollars for the book that was over a week overdue. So she has to pay 4 + 2 = 6 dollars total. The answer is 6.
+
+5)
+Josh practiced juggling 3 balls for a week, then 4 balls for another week, then 5 balls for another week, and 6 balls for the last week. When he fell on stage, he dropped 3 of the balls. So, he only dropped 1/2 of the total number of balls he practiced juggling.
+
+Therefore, the number of balls he dropped is:
+
+(3/2) * 6 = 9
+
+So, Josh dropped a total of 9 balls when he fell on stage.
+
+6)
+The vending machines sell chips for 40 cents and candy bars for 75 cents. George spent $5 and got 3 bags of chips and had 1% of his money left.
+
+So he spent $5 - (3 * 0.4) = $5 - 1.2 = $3.8 on bags of chips, and the rest, 1% of $5, which is $0.01, on candy bars.
+
+Since $0.01 is 1.3% of $0.75, he must've bought one candy bar.
+
+The answer is 1 candy bar.
+
+7)
+Martha needs a total of 25 skeins of wool to knit winter wear for her 3 grandchildren.
+
+Here's the breakdown:
+
+Hat: 2 skeins per hat x 3 hats = 6 skeins
+Scarf: 4 skeins per scarf x 3 scarves = 12 skeins
+Sweater: 12 skeins per sweater x 3 sweaters = 36 skeins
+Mittens: 1 skein per pair of mittens x 3 pairs = 3 skeins
+Socks: 2 skeins per pair of socks x 3 pairs = 6 skeins
+
+Total: 6 + 12 + 36 + 3 + 6 = 57 skeins
+
+Hope this helps!
+
+8)
+Jared starts with 47 WPM. After some lessons, his typing speed increases to 52 WPM. 52 - 47 = 5 WPM increase. If he continues to increase his typing speed once more by 5 WPM, his average of the three measurements will be (47 + 52 + 5) / 3 = 51 WPM.
+
+9)
+Adam bought 7 candies of type A for 7 * 0.5 = 3.5 dollars.
+Adam bought 10 candies of type B for 10 * 0.75 = 7.5 dollars.
+So Adam paid 3.5 + 7.5 = 11 dollars.
+Since he paid 15 dollars, he got 15 - 11 = 4 dollars of change.
+The answer is 4
+
+10)
+In the given scenario, 54 students are to be separated into 6 groups of equal size. So, each group will have 9 students.
+
+If the activity requires 12 groups, then 12 groups of 9 students need to be formed.
+
+To do so, 12 groups need to be formed, out of which 6 groups are already formed.
+
+Therefore, 12 - 6 = 6 more groups need to be formed.
+
+So, in total, 12 groups are needed to form.
+
+The answer is 6 more groups.
+
+From the above explanation, it is clear that 54 students are to be separated into 6 groups of equal size. But, if the activity requires 12 groups, then 12 groups need to be formed and 6 more groups need to be formed to meet the requirement.
+
+1+
+2+
+3-
+4+
+5-
+6-
+7-
+8-
+9+
+10+

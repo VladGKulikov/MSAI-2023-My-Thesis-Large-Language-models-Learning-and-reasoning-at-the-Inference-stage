@@ -270,3 +270,105 @@ BlomZ 176 B - 1/10
 8-
 9-
 10-
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+quanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW   5/10
+
+1)
+Janet has 16 ducks, each one laying 16 eggs per day.
+- She eats 3 eggs per day for breakfast.
+- She bakes 4 eggs per day into muffins.
+- She sells the remainder at the farmers' market for $2 per egg.
+
+Let's start by finding out how many eggs she has left after breakfast and baking: 16 - 3 - 4 = 9
+
+Then, we need to figure out how many eggs she sells at the farmers' market: 9 - 4 = 5
+
+Finally, we can calculate her earnings for the day: 5 * $2 = $10
+
+So, Janet makes $10 per day at the farmers' market.
+
+2)
+Let's first rearrange the information given in the problem to make it easier to solve:
+
+Marilyn's first record sold 10 times as many copies as Harald's.
+They sold 88,000 copies combined.
+This means that:
+
+Marilyn's first record sold 88,000/10 = 8,800 copies.
+Harald's first record sold 88,000/11 = 8,000 copies.
+The answer is 8,000.
+
+3)
+The age of the birds can be solved using the following equations:
+
+Age of Granny Red = Age of Sally Four * 2
+Age of Sally Two = Age of Granny Red + 3
+Age of Sally Thirtytwo = Age of Sally Four
+
+The total age of the four birds is:
+
+Age of Sally Two + Age of Granny Red + Age of Sally Four + Age of Sally Thirtytwo
+
+Plugging in the values:
+
+Age of Sally Two = Age of Granny Red + 3 = 3 * 2 + 3 = 9
+Age of Granny Red = 9/2 = 4.5
+Age of Sally Four = Age of Sally Thirtytwo = 8
+Age of Sally Thirtytwo = 8
+
+Total age of birds:
+4.5 + 8 + 8 + 8 = 28.5
+
+The total age of the four birds is 28.5 years.
+
+4)
+Nancy has to return 8 books and pay a $2.00 fee for having at least one of them over a week overdue.
+
+As each book is overdue, she has to pay $0.50. So, for the 8 books she owes $0.50 * 8 = $4.00.
+
+The flat fee is $2.00.
+
+So, the total amount Nancy has to pay is $4.00 + $2.00 = $6.00.
+
+5)
+Josh started by juggling 3 balls, and added 1 ball each week for 4 weeks. After slipping and dropping the balls, 2 were caught by people in the crowd, but 1 got lost. So he is left with 2 balls. The answer is 2.
+
+6)
+George spent 5 dollars and got 3 bags of chips. Three bags of chips cost 3 * 0.4 = 1.2 dollars. So he had 5 - 1.2 = 3.8 dollars left. 3.8 dollars is 1% of 380 dollars.
+
+Therefore, he had 380 cents. He bought 3 bags of chips, which cost 3 * 0.4 = 1.2 dollars. He had 380 - 1.2 = 378.8 dollars left. He bought 1% of 378.8 dollars worth of candy bars, which is 3.788 dollars.
+
+We know that candy bars cost 0.75 dollars each. So he bought 3.788 / 0.75 = 5 candy bars. The answer is 5.
+
+7)
+Martha needs to buy 32 = 6 skeins of wool for the hats, 34 = 12 for the scarves, 312 = 36 for the sweaters, 31 = 3 for the mittens, and 3*2 = 6 for the socks, for a total of 6 + 12 + 36 + 3 + 6 = 63 skeins of wool.
+
+8)
+Jared has a typing speed of 47 WPM to start with.
+
+After some lessons, his typing speed increases to 52 WPM.
+
+If he increases his typing speed by 5 WPM once more, his average typing speed will be:
+
+52 + 5 = 57 WPM
+
+9)
+Adam spent 7 * $0.5 = $3.5 on candies of type A, and 10 * $0.75 = $7.5 on candies of type B. So he paid $15 - $10.5 = $4.5, and received $4.5 in change. The answer is $4.5.
+
+10)
+To form six groups of equal size, you need to divide the number of students by the number of groups. 54 / 6 = 9. So you need 9 groups. To form 12 groups, you need to have 12 - 9 = 3 more groups. The answer is 3.
+
+1-
+2+
+3-
+4+
+5-
+6+
+7+
+8-
+9-
+10+

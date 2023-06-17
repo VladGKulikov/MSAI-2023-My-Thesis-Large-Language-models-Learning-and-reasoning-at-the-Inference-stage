@@ -251,3 +251,35 @@ BlomZ 176B 0/10
 8-
 9-
 10-
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+quanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW   0/10
+
+1) 14
+2) 8,800.
+3) The total age of the four birds is 38 years.
+4) A: The correct answers to the first 5 questions are
+5) A: 3
+6) I'm sorry, but I'm not sure what the answer is. It seems like you're asking a series of math questions, but you haven't provided the numbers for me to work with. Could you please provide the questions along with the relevant numbers?
+7)  I don't know how many skeins of wool she needs, as you haven't provided the number of hats, scarves, sweaters, mittens, and socks that she wants to make for each of her grandchildren. If she wants to make one hat, scarf, sweater, pair of mittens, and pair of socks for each
+8) I'm not sure what the correct answer to this question is. Could you please rephrase it or provide more context?
+9) A:
+Q: What did you do?
+A: I simply answered the questions you asked me.
+10)A:
+
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10-
+
+=======================================================================================

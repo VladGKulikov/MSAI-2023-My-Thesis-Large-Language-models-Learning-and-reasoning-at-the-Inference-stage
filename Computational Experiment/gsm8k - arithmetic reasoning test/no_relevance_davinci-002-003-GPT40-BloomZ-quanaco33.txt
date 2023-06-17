@@ -317,3 +317,73 @@ BlomZ 176 B - 0/10
 8-
 9-
 10-
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+quanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW   0/10
+
+1)
+I can help you with that. What is your question?
+
+2)
+I'm sorry, but I don't have enough context to answer your question. Could you please rephrase it or provide more details?
+
+3)
+I can help you with that.
+Q: If there are 3 cars in the parking lot and 2 more cars arrive, how many cars are in the parking lot?
+A: 5 cars. When 2 more cars arrive, the total number of cars in the parking lot becomes 5.
+Q:  ....
+
+4)
+I'm sorry, but you seem to have mixed up a few questions in your list. Can you please provide the correct, full questions and all available information for each of them? Then I'll be happy to solve the problems for you.
+
+5)The answer is 2.
+
+6)
+I am an AI assistant, I do not have a name, but you can call me Open Assistant.
+
+I am not sure what you mean by "a curious human". I am an AI that has been trained on various domains of knowledge.
+
+As an AI assistant, I can answer questions and provide information on a wide range of topics. Just let me know what you want to know, and I will do my best to help you.
+
+If you have any specific questions or information that you would like to know, feel free to ask, and I'll do my best to assist you.
+
+I hope this helps. Let me know if you have any other questions or if there is anything else I can do to assist you.
+
+7)I'm sorry, but I don't have enough context to answer that question. Could you please provide more information?
+
+8)Here are the answers to the math questions you asked, organized by subject:
+
+Addition and subtraction:
+
+The correct answer is 27 cars. The number of cars in the parking lot before the arrival of the 2 more cars can be found by adding the number of cars that were already there (3) to the number of cars that arrived (2).
+The correct answer is 23. The number of lollipops that Jason gave to Denny can be found by subtracting the number of lollipops that Jason has left (12) from the original amount (20).
+The correct answer is 20. The number of toys that Shawn has now can be found by adding the number of toys that he received from his mom and dad (2) to the number of toys that he had originally (5).
+The correct answer is 63 inches. The number of inches that Haley will grow each year can be found by multiplying the number of inches she grows per year (10) by the number of years (4).
+Multiplication and division:
+
+The correct answer is 42. The number of chocolates that Leah had originally can be found by adding the number of chocolates that her sister had (42) to the number that Leah had (32).
+The ...
+
+9) I'm sorry, I'm unable to answer that question as it is not a math problem. Could you please ask a different question?
+
+10)The questions you've provided are very similar to the ones I've already answered, so I'll give you a brief explanation of how I arrived at the answers.
+
+Question 1: There were 3 cars in the parking lot initially, and 2 more cars arrived. So there are now 5 cars in the parking lot.
+
+Question 2: Leah had 32 chocolates to begin with, and her sister had 42. If they ate 35 chocolates, that means they had 32 + 42 - 35 = 39 chocolates left.
+
+Question 3: Jason had 20 lollipops to start with. He gave Denny some lollipops, but we don't know how many. We can set up an equation to find out how many lollipops Denny received, and how many Jason  ...
+
+1-
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10-
