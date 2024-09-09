@@ -60,10 +60,9 @@ of learning), but their ability to learn and reasoning is limited by the abiliti
 acquired during the train stage.  
 
 ![alt text](Img/image02.png)
-
+---
 ![alt text](Img/image03.png)
-
+---
 ![alt text](Img/image04.png)
-
+---
 ![alt text](Img/image05.png)
-
