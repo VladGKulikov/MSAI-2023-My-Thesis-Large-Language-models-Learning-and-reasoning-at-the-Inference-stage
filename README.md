@@ -24,7 +24,7 @@ Main questions in this work:
 I. What conditions are required for L&R effect in LLMs?  
 II. L&R effect - What is it?  
 III. Do LLMs learn and reason at the Inference?  
-
+ 
 
 ---
 ## Conclusion
