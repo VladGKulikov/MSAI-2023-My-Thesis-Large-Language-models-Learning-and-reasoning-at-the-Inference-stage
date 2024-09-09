@@ -1,6 +1,6 @@
 # My Master's Thesis: ***LLMs(Large Language models). Learning and reasoning at the Inference stage.***
 
-
+![alt text](Img/image01.png)
 
 ## Abstract  
 
@@ -58,3 +58,12 @@ And following [21], [22], [35], we state, perhaps a bit more categorically, that
 **LLMs at the Inference stage do not learn** (in the classical sense of the notion
 of learning), but their ability to learn and reasoning is limited by the abilities
 acquired during the train stage.  
+
+![alt text](Img/image02.png)
+
+![alt text](Img/image03.png)
+
+![alt text](Img/image04.png)
+
+![alt text](Img/image05.png)
+
