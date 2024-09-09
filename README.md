@@ -16,14 +16,16 @@ Stage effect). This effect, along with the opportunities it creates, leaves open
 question of what exactly is the reason for the emergence of such a surprising ability
 in LLMs.  
 In this work, we summarize the available evidence and derive the necessary con-
-ditions for the most striking appearance of L&R effect in LLMs – Part 2. Literature
-overview, and also conduct an analysis on the basis of which we express a number of
-hypotheses about the reasons for such behavior LLMs – Part 3. Analytical part and
-we will test these hypotheses in Part 4.Computational experiment.  
+ditions for the most striking appearance of L&R effect in LLMs – Part 2.  
+Literature overview, and also conduct an analysis on the basis of which we express a number of
+hypotheses about the reasons for such behavior LLMs – Part 3.  
+Analytical part and we will test these hypotheses in Part 4.Computational experiment.  
+  
 Main questions in this work:  
-I. What conditions are required for L&R effect in LLMs?  
-II. L&R effect - What is it?  
-III. Do LLMs learn and reason at the Inference?  
+  
+### I. What conditions are required for L&R effect in LLMs?  
+### II. L&R effect - What is it?  
+### III. Do LLMs learn and reason at the Inference?  
  
 
 ---
@@ -40,15 +42,16 @@ conditions are written on the right):
 4. Number of examples to train: From zero to few-shot with increasing quality.  
 5. Size of Dataset: 300B training tokens and the size of the model is more
 significant.  
-5.2.Also, we summarize:  
+
+# Also, we summarize:  
 – observations of rule-like generalization at the inference stage, and experiments
-with chain-of-thought (and prompt in general), showing the predominant
-importance of train-stage learning for LLMs, and  
+with chain-of-thought (and prompt in general), showing **the predominant importance of train-stage learning for LLMs**, and  
 – facts that validity of reasoning is only a small part of the value for performance
 (pathologically incorrect examples are usually no worse than true ones),
 while following the order of reasoning steps and relevance to the input query are
 the key to efficiency.  
+
 And following [21], [22], [35], we state, perhaps a bit more categorically, that
-LLMs at the Inference stage \textbf{do not learn} (in the classical sense of the notion
+**LLMs at the Inference stage do not learn** (in the classical sense of the notion
 of learning), but their ability to learn and reasoning is limited by the abilities
 acquired during the train stage.  
