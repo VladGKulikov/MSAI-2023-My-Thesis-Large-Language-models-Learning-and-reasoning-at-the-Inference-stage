@@ -35,7 +35,7 @@ Main questions in this work:
 
 ## Conclusion
 
-In this paper we have analyzed the requirements for significant emergences
+<!-- In this paper we have analyzed the requirements for significant emergences
 of the L&R effect (Learning and Reasoning at the Inference stage effect)
 in LLMs(Large Language Models), and the conditions for the occurrence and the
 strength of the emergence of the effect depending on (preferred or mandatory
@@ -57,7 +57,7 @@ the key to efficiency.
 And following [21], [22], [35], we state, perhaps a bit more categorically, that
 **LLMs at the Inference stage do not learn** (in the classical sense of the notion
 of learning), but their ability to learn and reasoning is limited by the abilities
-acquired during the train stage.  
+acquired during the train stage.  -->
 
 ![alt text](Img/image02.png)
 ---
